@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/b3rking/natours/issues"
   },
-  "homepage": "https://github.com/b3rking/natours#readme"
+  "homepage": "https://github.com/b3rking/natours#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0"
+  }
 }
